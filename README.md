@@ -5,3 +5,7 @@ Este repositorio fue creado con el proposito de realizar las entregas correpsond
 ### Contenido
 
 - [Reto 0](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto0) : Aplicación tipo “Hola mundo” en Android.
+
+- [Reto 1](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto1) : Propuesta proyecto de curso.
+
+- [Reto 3](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto3/TicTacToe) : TicTacToe (Triqui).
