@@ -9,3 +9,5 @@ Este repositorio fue creado con el proposito de realizar las entregas correpsond
 - [Reto 1](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto1) : Propuesta proyecto de curso.
 
 - [Reto 3](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto3/TicTacToe) : TicTacToe (Triqui).
+
+- [Reto 4](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto4/TicTacToe) : TicTacToe (Triqui) - Mensajes y diálogos/Control de dificultad.
