@@ -17,3 +17,5 @@ Este repositorio fue creado con el proposito de realizar las entregas correpsond
 - [Reto 6](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto6/TicTacToe) : TicTacToe (Triqui) - Orientación y guardado de estado
 
 - [Reto 7](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto7) : TicTacToe (Triqui) - Juego Online
+
+- [Reto 8](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto8) : Persistencia utilizando SQLite
