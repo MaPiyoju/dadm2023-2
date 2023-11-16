@@ -1,6 +1,6 @@
 # Desarrollo de Aplicaciones para Dispositivos Móviles - 2023 - 2
 
-Este repositorio fue creado con el proposito de realizar las entregas correpsondiente para la materia DADM-2023-II.
+Este repositorio fue creado con el proposito de realizar las entregas correspondientes para la materia DADM-2023-II.
 
 ### Contenido
 
