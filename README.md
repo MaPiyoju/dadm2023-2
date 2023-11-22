@@ -21,3 +21,5 @@ Este repositorio fue creado con el proposito de realizar las entregas correspond
 - [Reto 8](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto8) : Persistencia utilizando SQLite
 
 - [Reto 9](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto9) : Accediendo a GPS
+
+- [Reto 10](https://github.com/MaPiyoju/dadm2023-2/tree/main/Reto10) : Consumo de WebServices. Se hace uso del dataset -> https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Puntos-Vive-Digital/etr2-mkeu
